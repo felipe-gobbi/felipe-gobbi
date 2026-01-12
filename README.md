@@ -1,156 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=808080"/>
+<img src = "githubanner.JPG"/>
+
+<div align="center">
+
+  [![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge)](https://www.linkedin.com/in/fgobbi/)
+  [![Email](https://img.shields.io/badge/email-000000?style=for-the-badge)](mailto:felipegobbi2003@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge)](https://leetcode.com/u/hbnsty3pCv/)
  
-# 👨‍💻 Felipe Gobbi
-
-**`Data Scientist`**
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=808080&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Data+Science;Be+welcome;" alt="Typing SVG"/>
 </div>
 
-Tenho 22 anos e sou natural de Uberlândia, Minas Gerais. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UFU e trabalhando. Sou apaixonado por ciência de dados e idiomas, estou desenvolvendo e contruibuindo em projetos que trabalhem com esses 2 assuntos ao redor do mundo e pretendo ajudar mais pessoas a se desenvolverem no aprendizado de idiomas com meu conhecimento em tecnologia.
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<!-- <p align="left">
-  <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/felipe-gobbi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/felipe-gobbi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+<img src="https://i.imgur.com/tE2Kr1F.gif" width="240" height="240" align="right" style="margin-left: 20px; "/>
+
+
+<p align="left"> 
+ Hi there! I’m Felipe, 22 years old and natural from Brazil. I’m currently pursuing a Bachelor’s degree in Information Systems at UFU and working with data analysis in the banking sector. I’m passionate about data science and languages, and I aim to contribute to projects that connect these two worlds.
 </p>
--->
 
 
-### 🤖 Linguagens & Tecnologias
+<p align="center">
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Bachelor's Degree in Information Systems at UFU (In Process) </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Working with Data Analysis in the Banking Sector (2 Years of Experience) </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Studying Japanese (JLPT - N5) </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Pixel Artist for Hobby </b></em><br/>
+</p>
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="VBA" 
-    title="VBA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<!-- NÃO ESTÁ FUNCIONANDO
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies & Tools </em> </h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats - Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualBasic-000000?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
--->
 
-<br>
+<br/>
 
-### 📞 Contate Me:
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
-<div align="left">
 
-  [![Linkedin](https://img.shields.io/badge/Linkedin-808080?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fgobbi/)
-  [![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:felipegobbi2003@gmail.com)
- 
-</div>
-
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=808080&section=footer"/>
 
