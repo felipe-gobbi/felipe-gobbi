@@ -17,6 +17,7 @@
  Hi there! I’m Felipe, 22 years old and natural from Brazil. I’m currently pursuing a Bachelor’s degree in Information Systems at UFU and working with data analysis in the banking sector. I’m passionate about data science and languages, and I aim to contribute to projects that connect these two worlds.
 </p>
 
+<br/>
 
 <p align="center">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Bachelor's Degree in Information Systems at UFU (In Process) </b></em> <br/>
@@ -25,8 +26,6 @@
    <img src="/imgs/img1.png" width="15"/>   <em><b> Pixel Artist for Hobby </b></em><br/>
 </p>
 
-
-<br/>
 <br/>
 
 
