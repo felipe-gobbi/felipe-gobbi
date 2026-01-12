@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "assets/images/githubbanner.png"/>
 
 <div align="center">
 
