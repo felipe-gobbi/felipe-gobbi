@@ -50,5 +50,10 @@
 
 <h2 align="center""> <img src="/assets/images/img7.png" width="25"/> <em> Statistics </em> </h2>
 
+<div align = "center"> 
+
+![Felipe Gobbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gobbi&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gobbi)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
