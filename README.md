@@ -10,7 +10,15 @@
 
 <h2 align="center"> <img src="/assets/images/img1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://i.pinimg.com/originals/36/6d/94/366d94f67e9cff8c4d02f7e4367ef6b1.gif" width="240" height="240" align="right" style="margin-left: 20px; "/>
+<a href="https://br.pinterest.com/pin/1145040274121886665/" target="_blank">
+  <img
+    src="https://i.pinimg.com/originals/36/6d/94/366d94f67e9cff8c4d02f7e4367ef6b1.gif"
+    width="240"
+    height="240"
+    align="right"
+    style="margin-left: 20px;"
+  />
+</a>
 
 
 <p align="left"> 
@@ -22,7 +30,7 @@
 <p align="center">
    <img src="/assets/images/img2.png" width="15"/>   <em><b> Bachelor's Degree in Information Systems at UFU (In Process) </b></em> <br/>
    <img src="/assets/images/img3.png" width="15"/>   <em><b> Working with Data Analysis in the Banking Sector (2 Years of Experience) </b></em><br/>
-   <img src="/assets/images/img4.png" width="15"/>   <em><b> Studying Japanese (JLPT - N5) </b></em><br/>
+   <img src="/assets/images/img4.png" width="15"/>   <em><b> Studying Japanese - 日本語 (JLPT - N5) </b></em><br/>
    <img src="/assets/images/img5.png" width="15"/>   <em><b> Pixel Artist for Hobby </b></em><br/>
 </p>
 
